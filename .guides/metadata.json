@@ -1,0 +1,42 @@
+{
+ "sections": [
+  {
+   "id": "fb14e42a-9bad-951a-0784-1342d2251013",
+   "title": "What's Your Star Sign?",
+   "files": [
+    {
+     "path": "challenge3.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-s-Your-Star-Sign--fb14.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "79a25b77-8859-013a-abb0-b7730b785d73",
+   "title": "Teacher section",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Teacher-section-79a2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
